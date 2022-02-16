@@ -2,8 +2,7 @@
 Projet personnel de connexion à Aurion en Python !
 
 ### Actuellement
-https://mylow.fr/pyaurion
-En "NoFileCatch"  (aucun enregitrement de donnée + catch moyenne)
+Branche avec logs enregistrés sur un fichier json
 
 ## Description
 Aurion n'ayant pas d'API, il est difficile de s'y connecter. Je crée donc une WebApp pour permettre la visualisation des emplois du temps ainsi que des notes (ainsi que les moyennes).
